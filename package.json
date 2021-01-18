@@ -3,10 +3,10 @@
   "version": "0.8.1",
   "description": "Vue wrappers for smooth-dnd",
   "author": "Kutlu Sahin",
-  "homepage": "https://kutlugsahin.github.io/vue-smooth-dnd/",
+  "homepage": "github:jb-engine/vue-smooth-dnd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kutlugsahin/vue-smooth-dnd"
+    "url": "github:jb-engine/vue-smooth-dnd"
   },
   "contributors": [
     {
@@ -42,7 +42,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kutlugsahin/vue-smooth-dnd/issues"
+    "url": "github:jb-engine/vue-smooth-dnd/issues"
   },
   "dependencies": {
     "smooth-dnd": "github:jb-engine/smooth-dnd#bug-747-riz-body-cursor-important-fix"
